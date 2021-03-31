@@ -1,5 +1,5 @@
 # Red-vs-Blue-Project
-Assessment, Analysis, and Hardening of a Vulnerable System
+<Assessment, Analysis, and Hardening of a Vulnerable System>
 
 This project utilized a Red vs. Blue Team scenario in which I played the role of both the pentester and SOC analyst.
 
