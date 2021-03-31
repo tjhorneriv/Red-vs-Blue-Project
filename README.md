@@ -8,4 +8,4 @@ The logs allowed me to extract hard data and visualizations for the report inclu
 
 I used this information to harden the vulnerable machine with proposed alarms in Kibana as well as additional mitigation strategies for the machine itself.
 
-The Red-vs-Blue.pdf is the resulting presentation I delivered on my work.
+The Red-vs-Blue.pdf is the resulting presentation I delivered on my work. Enjoy!
